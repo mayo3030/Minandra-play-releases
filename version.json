@@ -1,1 +1,6 @@
-{"versionCode": 13, "versionName": "3.8", "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk", "changelog": "Explain this video is much faster: new fast default model (Grok 4.20, no reasoning delay) and live streaming text. New language choice: Arabic, English, or Bilingual (default)."}
+{
+  "versionCode": 14,
+  "versionName": "3.9",
+  "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
+  "changelog": "تحسين عرض شرح الفيديو: تنسيق احترافي ومحاذاة RTL للعربي"
+}
