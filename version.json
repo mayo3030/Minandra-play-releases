@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "3.9",
+  "versionCode": 26,
+  "versionName": "5.7",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "تحسين عرض شرح الفيديو: تنسيق احترافي ومحاذاة RTL للعربي"
+  "changelog": "Minandra Play 5.7: تصميم جديد، أيقونة جديدة، ترجمة CC، كلمات الأغاني بكذا لغة، كل درجات الجودة + Auto"
 }
