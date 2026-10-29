@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "6.4",
+  "versionCode": 34,
+  "versionName": "6.5",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "Minandra Play 6.4: اشتراك/إلغاء اشتراك في الفنانين والقنوات، تعديل اسم ووصف قوايمك وإعادة ترتيب الأغاني، لايك وديسلايك في شاشة التشغيل، وصفحات Charts وMoods & genres من الهوم — ومكتبتك وسجلك وكلماتك المحفوظة محفوظين"
+  "changelog": "Minandra Play 6.5: صفحة فنان كاملة (الجمهور الشهري، Shuffle وRadio، كل الرفوف)، تفاصيل الفيديو (مشاهدات، تاريخ، لايكات، القناة واشتراك، Up next، تعليقات أغنى)، Start radio وAutoplay وGo to album/artist من شاشة التشغيل، ترتيب وفلترة المكتبة والتحميلات وRecently played، وصفحات البودكاست — ومكتبتك وسجلك وكلماتك المحفوظة محفوظين"
 }
