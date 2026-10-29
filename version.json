@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "6.0",
+  "versionCode": 30,
+  "versionName": "6.1",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "Minandra Play 6.0: لو الكلمات مش موجودة بيظهر نص تلقائي (Transcript) من ترجمة الفيديو متزامن مع الصوت، مع اختيار اللغة. وإصلاح الـCC (الترجمة) علشان تظهر في المشغّل"
+  "changelog": "Minandra Play 6.1: زرار الـCC والترس بقوا شغالين، ترجمة بلغتين في نفس الوقت، دوسي على أي كلمة تترجمها (عربي↔إنجليزي) واحفظيها في قائمة كلماتي، وصفحة الفنان بقت بتعرض الأغاني والألبومات والفيديوهات"
 }
