@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "6.9",
+  "versionCode": 39,
+  "versionName": "7.0",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "إصلاح زرار الإعجاب: زرار اللايك في شاشة الفيديو كان شكلي ومش بيعمل حاجة — دلوقتي Like/Dislike حقيقيين بيتبعتوا ليوتيوب. في Now Playing الزراير بقت ظاهرة دايمًا، ولو مش مسجّلة دخول أو الطلب فشل بيظهر لك رسالة بدل ما يفشل بصمت. استخدام معاملات اللايك اللي يوتيوب نفسه بيبعتها."
+  "changelog": "جديد في قسم الفيديو: تبويب Library زي يوتيوب — صف History بآخر الفيديوهات، وتبويبات Recents/Downloaded/Playlists/Podcasts، وقوايم Liked videos وWatch later وDownloads وSaved Shorts وكل البلاي ليستات بتاعتك. وصفحة History كاملة (سجل الجهاز + سجل حساب يوتيوب) وصفحة لكل بلاي ليست."
 }
