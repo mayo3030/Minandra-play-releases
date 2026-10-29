@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "5.8",
+  "versionCode": 28,
+  "versionName": "5.9",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "Minandra Play 5.8: الهوية الجديدة جوه التطبيق — لوجو Split Play واسم Minandra Play في الهيدر وشاشة البداية وصفحة About"
+  "changelog": "Minandra Play 5.9: لوجو أوضح في الهيدر، صورة حسابك (أو الحروف الأولى لو مفيش صورة)، زرار AI ✨ في الشريط العلوي يشرح اللي شغال، سجل تشغيل History محلي في المكتبة (تشغيل/حذف/مسح الكل)، وزرار بحث على الويب لما الكلمات مش موجودة"
 }
