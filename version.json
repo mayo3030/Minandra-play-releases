@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "7.0",
+  "versionCode": 40,
+  "versionName": "7.1",
   "apkUrl": "https://github.com/mayo3030/mt-releases/releases/latest/download/Mt.apk",
-  "changelog": "جديد في قسم الفيديو: تبويب Library زي يوتيوب — صف History بآخر الفيديوهات، وتبويبات Recents/Downloaded/Playlists/Podcasts، وقوايم Liked videos وWatch later وDownloads وSaved Shorts وكل البلاي ليستات بتاعتك. وصفحة History كاملة (سجل الجهاز + سجل حساب يوتيوب) وصفحة لكل بلاي ليست."
+  "changelog": "إصلاح زرار Subscribe: الحالة بتتغير فوراً لـ Subscribed في نفس اللحظة، ومتزامنة بين صفحة القناة وصف القناة تحت الفيديو وصفحة الفنان. لو السيرفر رفض، الزرار بيرجع زي ما كان."
 }
