@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.3",
+  "versionCode": 45,
+  "versionName": "1.0.4",
   "apkUrl": "https://github.com/mayo3030/Minandra-play-releases/releases/latest/download/Mt.apk",
-  "changelog": "نسخة 1.0.3: علّي ووطّي الصوت بسحب صباعك لفوق أو لتحت على يمين الفيديو، والإضاءة على الشمال."
+  "changelog": "نسخة 1.0.4: زرار نسخ في شاشة شرح الفيديو بينسخ الشرح كله بدوسة واحدة."
 }
