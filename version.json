@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.2",
+  "versionCode": 44,
+  "versionName": "1.0.3",
   "apkUrl": "https://github.com/mayo3030/Minandra-play-releases/releases/latest/download/Mt.apk",
-  "changelog": "نسخة 1.0.2: تقدري تقفلي المشغّل الصغير بسحبه يمين أو شمال أو بزرار ✕؛ التشغيل بيقف والإشعار بيختفي."
+  "changelog": "نسخة 1.0.3: علّي ووطّي الصوت بسحب صباعك لفوق أو لتحت على يمين الفيديو، والإضاءة على الشمال."
 }
